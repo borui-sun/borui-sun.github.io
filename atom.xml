@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rui&#39;s blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-12-11T04:05:12.968Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Rui</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>recent life</title>
+    <link href="http://example.com/2024/12/11/recent-life/"/>
+    <id>http://example.com/2024/12/11/recent-life/</id>
+    <published>2024-12-11T03:56:24.000Z</published>
+    <updated>2024-12-11T04:05:12.968Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="recent-music"><a href="#recent-music" class="headerlink" title="recent music"></a>recent music</h2><p>最近发现写文稿时听一些纯古典钢琴曲很好，特别是在晚上，氛围很好。</p><p>摇滚乐仍然是主项，再次听到一些许久未听的歌甚至有些感动，同时更加感到作者的天才作曲性，久经时间的声音放出来就能直触人心。</p><p>除此之外，听了很多周杰伦的歌，从早期一直到近段的《最伟大的作品》，每一首都有其独特之处，古旧简约但不简单的作曲，神仙级别的作词，无敌。</p><p>还有陶喆，只是听了两首歌，《天天》《普通朋友》，确实好听，跑步的时候会听几遍。</p><h2 id="skills"><a href="#skills" class="headerlink" title="skills"></a>skills</h2><p>12月各种DDL全部吻了上来,各种论文文稿亟待编辑。  </p><p>想到可能会参加的美赛，就开始学着使用Latex撰写论文，目前已经写好了两篇，效果还不错。  </p><p>还有目前使用的markdown，这种轻量级编辑语言确实方便快捷且高效，和latex一样，完全避免了过多的操心排版问题，<br>虽然不是所见即所得，但是逻辑性和准确性比word高得多。</p><p>学着搭建了一个网站，基于hexo框架，但是目前只能deploy在github上（刚刚还看了gitee，还没过审），所以只有特殊途径才能看到这些啦。</p><p>总结就是学会了Latex，Markdown，hexo搭建个人博客。</p><h2 id="life"><a href="#life" class="headerlink" title="life"></a>life</h2><p>每天坚持3Km，时间已经自然进步到13’30，而且很轻松，已经可以看出久久为功的痕迹了</p><p>期末临近了，希望最近好好冲刺一番，过个好年！</p><p>新年也快到了，我经历了什么，得到了什么，失去了什么，什么使我幸福，什么使我痛苦，我忘记了什么，我学会了什么，这些抽象的问题都等待我去思考，复盘。</p><p>本次小记就到这里！</p><p>catch you later!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;recent-music&quot;&gt;&lt;a href=&quot;#recent-music&quot; class=&quot;headerlink&quot; title=&quot;recent music&quot;&gt;&lt;/a&gt;recent music&lt;/h2&gt;&lt;p&gt;最近发现写文稿时听一些纯古典钢琴曲很好，特别是在晚上，氛围很</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>准备好了吗</title>
+    <link href="http://example.com/2024/12/09/%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97/"/>
+    <id>http://example.com/2024/12/09/%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97/</id>
+    <published>2024-12-09T08:37:17.000Z</published>
+    <updated>2024-12-09T09:17:00.630Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="正式的"><a href="#正式的" class="headerlink" title="正式的"></a>正式的</h2><p>又花了一个下午把主页设置好了<br>包括音乐效果，动态字幕，去除了乱七八糟的广告  </p><p>当然一些个人链接还没配置好</p><p>这个blog就将成为记录我生活和想法的电子日记本</p><p>因为它隐私（对于大部分人），高效，还能锻炼我的md编辑能力</p><p>是我能留在世界上的一份纪念品</p><p>会记录一些感想以及记忆收藏所</p><p>就是这样吧</p><p>还有因为技术原因可能大部分人都看不到这个nets，正合我意  </p><p>ps：gitee审核过了可能会搞一个国内就能直接打开的另一个站台<br>但是这个肯定是主打  </p><p>that’s all<br>are you ready for this journey?</p><p>Rui<br>2024 12 9<br>16：44</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;正式的&quot;&gt;&lt;a href=&quot;#正式的&quot; class=&quot;headerlink&quot; title=&quot;正式的&quot;&gt;&lt;/a&gt;正式的&lt;/h2&gt;&lt;p&gt;又花了一个下午把主页设置好了&lt;br&gt;包括音乐效果，动态字幕，去除了乱七八糟的广告  &lt;/p&gt;
+&lt;p&gt;当然一些个人链接还没配置好&lt;/p</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://example.com/2024/12/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2024/12/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2024-12-08T15:53:05.000Z</published>
+    <updated>2024-12-11T02:49:43.642Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="this-blog"><a href="#this-blog" class="headerlink" title="this blog"></a>this blog</h1><p>this blog is only for recording life and ideas</p><p>I have a happy family and I hope we can always be together.</p><p>this blog is created in my 18s</p><ul><li><p>music<br><strong>Hedgehog</strong><br><strong>Nirvana</strong><br>…</p></li><li><p>friends<br>Hu Jintong<br>Li Ning<br>Li Boxian<br>Liu Shudi<br>Zhang Tongjian<br>Zuo Binhao</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;this-blog&quot;&gt;&lt;a href=&quot;#this-blog&quot; class=&quot;headerlink&quot; title=&quot;this blog&quot;&gt;&lt;/a&gt;this blog&lt;/h1&gt;&lt;p&gt;this blog is only for recording life and i</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2024/12/08/hello-world/"/>
+    <id>http://example.com/2024/12/08/hello-world/</id>
+    <published>2024-12-08T15:51:25.457Z</published>
+    <updated>2024-12-08T15:51:25.457Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
